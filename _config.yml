@@ -54,7 +54,7 @@ github: rush-er
 email: stoccomatis7@gmail.com
 
 authors:
-    matis:
+    matisstocco:
         name: Matis Stocco
         bio: 🧢 Power User & Referee ⚽
         external-image: false
@@ -113,3 +113,4 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+
