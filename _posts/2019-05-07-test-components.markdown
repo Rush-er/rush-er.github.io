@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Test components"
 layout: post
 date: 2019-05-07 17:00
 image: /assets/images/markdown.jpg
