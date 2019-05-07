@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "Blog template"
 layout: post
-date: 2016-02-24 22:48
+date: 07-05-2019 17:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,10 @@ tag:
 - components
 - extra
 category: blog
-author: Matis Stocco
+author: Matis
 description: Test blog
 ---
 
+## Evidence
+
+You can try the evidence!
