@@ -6,8 +6,9 @@ layout: page
 
 <p>My name is Matis, i'm form Treviso-Italy.</p>
 
-<p>I love Android, Linux and music.
- I am also a referee you know the guy who gets shouted all the time 😆; at the moment i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda Categoria</a> level.</p>
+<p>I love Android, Linux and music.</p>
+
+<p>I am also a referee you know the guy who gets shouted all the time 😆, reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda Categoria</a> level.</p>
 
 <!--
 <h2>Skills</h2>
