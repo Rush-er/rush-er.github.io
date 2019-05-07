@@ -1,7 +1,7 @@
 ---
 title: "Blog template"
 layout: post
-date: 07-05-2019 17:00
+date: 2019-05-07 17:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

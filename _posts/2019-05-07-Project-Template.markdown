@@ -1,8 +1,8 @@
 ---
 title: ":fire: Title"
 layout: post
-date: 07-05-2019 17:00
-tag: tempolate
+date: 2019-05-07 17:00
+tag: template
 image: https://images.unsplash.com/photo-1449452198679-05c7fd30f416?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
 headerImage: true
 projects: true
