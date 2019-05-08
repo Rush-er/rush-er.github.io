@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: /assets/images/profile.webp
+external-image: true
+picture: https://lh3.googleusercontent.com/XuPCKu6LBhh4pwP1nwBD8Y8t-5702YbIEHjOaC0_bhRdKC7j1mHdNgufO5d9Cc7na4WFfZuE3bDjlKiL18jFTHl0bcl33jE4QZFNmAq1aEckgWgD0c2T3AB72ofdJMHIFLoPJy0B8Wq8m77JvPs_YbnO-LmJH5S_U7vgwfYbcEH6nC2AD1Qj_jELc3LBqyrMHT4Q9yTDuTOBjx5YvekDF3HEUWDd_JvkL2ODD7pYqItIaMyukgSgL01B4IE1yCM4Zaef2YlcLU9GgpeU9AKPOJzreKPdooVeiOC0eEpA531c4xqxSJfRv_lYOQA9Q6PMNfE0dtN6pHxY0rgffriDodysqskBeR16ceJUP5TEMbYbIJe3UnpF-YR9n1OlBV8NtsDVJ1xFLOdY-NI-MXrzNIeVYgv21GKxfjP9y8Ya8Dc-tn9LWwm4U408sTRIBtfTVS88IU9fjjVZo402WELg9ayw6jNMEAJchbInvntmeIrmaqlq_T51JujTJckOpwEIH8S5LZ7xe0je3iu9xxsKrNxoEOyyeGfILpk9wsldmDdcbjt_fjY3PCpTNJA30fflPa3r1RSzf3AzhmzQAYOmR43QPouUtdciCz8raR3GRj7wrgkA401fz-TUt_u3tORLMmjdELEuDEmmVPFStaNfVdDUjtaweXz1=s217-no
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: matisstocco # enter this from your disqus account
+  shortname: stoccomatis-tk # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -40,8 +40,8 @@ disqus:
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
+youtube: UCHsXJhp8fzDJBwFOK4iHgDQ
+spotify: 11149520350
 github: rush-er
 # gitlab: mygitlab
 # lastfm: mylastfm
