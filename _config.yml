@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpeg2000
+external-image: true
+picture: https://lh3.googleusercontent.com/HFBl2pnTiwbF7KD8z-H57QkMCoj1fND7Sc1GMtO-0K4v3Lg_jx2mQeTOgCc8LZx_jkXAfyy26nIsHhMQ19r0BHKxq3X3_QKAwZ9eCiUVue33phiZ7sbMD6rEdd7bmUhzq93-skWhgqdRtV0BQxxzh62JYJDJzWBFA3vIGLzPVW9ywxXGAidoEdWS963RYwE7bsRHuBnqc3IClBdsMNKxBSP8LOHl0b-f18SWy2H22B-9CylZo2aiYdpnAHUVNdvd-I_E0AxUy8EaIFJe8c4BM6IBURdKhYrml0gVqV6-nwtUFtzFPJ8xUBBF_sFFGIlnMBvL4CdzDzPbX95aauYACo-ad-i-cXrDkFxoXKdLMp_urAg7qaZBu4FLnc1GAugb-k0xRhIYfl-tEgDLTjc9IJ-PmDsPUuwrGKX-7hu_lIT_fCoH5CyNL8ZERw6U5sWbODfckkIvFPVyl8uB1aET33n6fTaz0xPvXli5crxqHLz_JK25yGZwe2QNiQT2pDk1mvmtluUnj42Rv-Ghr-MU6nOZBkioGCTPbXz6qyU5dYrlLYWT8Vn_-hTSza8NBz_7Mjm31rccu9NNYe6jvEgiCcYgfcjCEsV0A8Ju5C3l1fj9duGRb9lP3y2AkU23jMINJ9ISnHHdEH7__QlgJ6950bhWh5NZp9em3OABCDuNMJFlLB4jO9DwatygucTb_v5SPvR49h5W03pEAF-0_3XOfwfJLw=w595-h793-no
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: matisstocco # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
