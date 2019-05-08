@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jp2
+external-image: true
+picture: https://lh3.googleusercontent.com/bd_HAh02tvceHs6zHCbAZ9Rt8qMKVCmDGf_05289IbeRVTkqaZO1GQIZcfnzhQipX8vwzqoMNfJTIB3m_CRUbRkaxoyBBiu6bNCY-SArIz03EPx4GjKOgMDGMPsBldd3wRFED-7WeNGAfWqt_TOdM2dGmuTIwcZlzM769h95RBgYjmoi3KXEujKo72zkCpCCkDb1cezKNG028gknwzlrg_852vp_wO_Tsf7klbsS1fJYnZVabZeDvO89oMfWqOoa5XggMdd97yh0lmyguZquJVrwQWCyjg1098AJRIps3Cfxle2u6Zqorjmve_8T_ywnEU5Q9fhNxjRebm3z6GpVjEC6CEzObj7QTiHuXjrU_k5gcxHbK5ZVOvCPlyuECFqfv-fFmLKlA-Sy5Zdsa1Czmss0QXxPyG910IfhBFYaPhi5iqibuVUqm7SPbiB-7X_Ito01TRm4uvjqmPwCBWCOfov_rGLWqrTuUi8rDC0O-TEPuHYZZ-2dJV5WY5uUVUyMfGg8eoxP7RAWRGWovDJXrR0vAYqnuF3kplZPVGMQR069_RSzb6WmsphA1_RBBPyBPROHyEJGKOqP9qx7kC2ni1qCOMv_nu08o2ru8AbGXyE6NjBjWGSKr4Pf08rOvTR7qiIklqainCz_M_3M4dTW8Qzmt9v7Togr=s217-no
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -29,9 +29,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname:  # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+  #shortname:  # enter this from your disqus account
+  #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -57,8 +57,8 @@ authors:
     matis:
         name: Matis Stocco
         bio: 🧢 Power User & Referee ⚽
-        external-image: false
-        picture: assets/images/profile.jp2
+        external-image: true
+        picture: https://lh3.googleusercontent.com/bd_HAh02tvceHs6zHCbAZ9Rt8qMKVCmDGf_05289IbeRVTkqaZO1GQIZcfnzhQipX8vwzqoMNfJTIB3m_CRUbRkaxoyBBiu6bNCY-SArIz03EPx4GjKOgMDGMPsBldd3wRFED-7WeNGAfWqt_TOdM2dGmuTIwcZlzM769h95RBgYjmoi3KXEujKo72zkCpCCkDb1cezKNG028gknwzlrg_852vp_wO_Tsf7klbsS1fJYnZVabZeDvO89oMfWqOoa5XggMdd97yh0lmyguZquJVrwQWCyjg1098AJRIps3Cfxle2u6Zqorjmve_8T_ywnEU5Q9fhNxjRebm3z6GpVjEC6CEzObj7QTiHuXjrU_k5gcxHbK5ZVOvCPlyuECFqfv-fFmLKlA-Sy5Zdsa1Czmss0QXxPyG910IfhBFYaPhi5iqibuVUqm7SPbiB-7X_Ito01TRm4uvjqmPwCBWCOfov_rGLWqrTuUi8rDC0O-TEPuHYZZ-2dJV5WY5uUVUyMfGg8eoxP7RAWRGWovDJXrR0vAYqnuF3kplZPVGMQR069_RSzb6WmsphA1_RBBPyBPROHyEJGKOqP9qx7kC2ni1qCOMv_nu08o2ru8AbGXyE6NjBjWGSKr4Pf08rOvTR7qiIklqainCz_M_3M4dTW8Qzmt9v7Togr=s217-no
         
     
 
