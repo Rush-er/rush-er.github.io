@@ -2,13 +2,20 @@
 title: "Template"
 layout: post
 date: 2019-02-24 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
+image: /assets/images/social.png
+headerImage: true
 tag:
-- markdown
-- elements
+- social
+- addiction
+- blog
 star: true
 category: blog
 author: matis
-description: none
+description: Social Addiction
 ---
+# Why i dont have social network ?
+I used to be a social network user, starting with Twitter back in the day but i never used it so i moved to Facebook.
+Facebook was a key changer for me because i was young and i had a new way of interaction, i always be a shy kid.
+In the years Facebook started to be replaced by Instagram and i like almost all my friends switched.
+On Instagram i growed a 2000 followers account just for a challenge but after reaching the goal instagram killed my account for no reason.
+After this event i remade an account with the intention on keep it smaller and add only friends, this was the time Instagram added the story on the platform, with this new change i noticed an increase in use like open the app, check all the story, close, re-open it after 20 minutes and check again
