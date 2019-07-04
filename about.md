@@ -34,10 +34,11 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/Rush-er/PhotoS">Image editor for Windows</a></li>
 	<li><a href="https://github.com/Rush-er/SickAdsNew">Block ads/trackers/malwares</a></li>
-	<li><a href="https://github.com/Rush-er/spotifyadshost">Block annoying ads on Desktop version of Spotify </a></li>
+	<li><a href="https://github.com/Rush-er/PhotoS">Image editor for Windows</a></li>
+	<li><a href="https://github.com/Rush-er/Viper4Linux-Configs">My presets for Viper4Linux</a></li>
 	<li><a href="https://github.com/Rush-er/themeInstaller">Script for Theme installation linux</a></li>
+	
 	
 
 </ul>
