@@ -10,6 +10,13 @@ layout: page
 i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda Categoria</a> level.</p>
 
 
+<h2>Projects</h2>
+<ul>
+	<li><a href="https://github.com/Rush-er/SickAdsNew">Block ads/trackers/malwares</a></li>
+	<li><a href="https://github.com/Rush-er/PhotoS">Image editor for Windows</a></li>
+	<li><a href="https://github.com/Rush-er/Viper4Linux-Configs">My presets for Viper4Linux</a></li>
+	<li><a href="https://github.com/Rush-er/themeInstaller">Script for Theme installation linux</a></li>
+</ul>
 
 
 <h2>Certification</h2>
@@ -27,10 +34,3 @@ i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda 
 ![](assets/images/cert.png)
 
 
-<h2>Projects</h2>
-<ul>
-	<li><a href="https://github.com/Rush-er/SickAdsNew">Block ads/trackers/malwares</a></li>
-	<li><a href="https://github.com/Rush-er/PhotoS">Image editor for Windows</a></li>
-	<li><a href="https://github.com/Rush-er/Viper4Linux-Configs">My presets for Viper4Linux</a></li>
-	<li><a href="https://github.com/Rush-er/themeInstaller">Script for Theme installation linux</a></li>
-</ul>
