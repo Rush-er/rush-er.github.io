@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+
+<url>
+  <loc>https://stoccomatis.netlify.com/</loc>
+  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stoccomatis.netlify.com/about/</loc>
+  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoccomatis.netlify.com/blog/</loc>
+  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoccomatis.netlify.com/projects/</loc>
+  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stoccomatis.netlify.com/no-social/</loc>
+  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
