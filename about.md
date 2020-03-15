@@ -12,26 +12,17 @@ layout: page
 
 
 
-<!--
-<h2>Skills</h2>
+
+<h2>Certification</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>CCNA R&S: Routing and Switching Essentials</li>
+	<li>CCNA R&S: Connecting Networks)</li>
+	<li>CCNA R&S: Scaling Networks</li>
+	<li>Cybersecurity Essentials</li>
+	<li>WatchGuard Network Security</li>
+	<li>Kaspersky Endpoint Security and Management</li>
 </ul>
--->
 
 <h2>Projects</h2>
 
