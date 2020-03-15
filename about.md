@@ -29,7 +29,7 @@ i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda 
 	<li>Kaspersky Endpoint Security and Management</li>
 </ul>
 
-
+<p></p>
 
 ![](assets/images/cert.png)
 
