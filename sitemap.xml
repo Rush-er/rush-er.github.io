@@ -1,30 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-
-<url>
-  <loc>https://stoccomatis.netlify.com/</loc>
-  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://stoccomatis.netlify.com/about/</loc>
-  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://stoccomatis.netlify.com/blog/</loc>
-  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://stoccomatis.netlify.com/projects/</loc>
-  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://stoccomatis.netlify.com/no-social/</loc>
-  <lastmod>2020-03-15T00:37:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
+<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://stoccomatis.netlify.com/about</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stoccomatis.netlify.com/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stoccomatis.netlify.com/blog</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stoccomatis.netlify.com/projects</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stoccomatis.netlify.com/no-social/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stoccomatis.netlify.com/tags/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stoccomatis.netlify.com/indigo-jekyll-theme/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-03-15T00:44:23Z</lastmod>
+  </url>
 </urlset>
