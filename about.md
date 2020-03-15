@@ -24,7 +24,7 @@ i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda 
 
 
 
-![Certification](/assets/images/cert.svg)
+![](assets/images/cert.png)
 
 
 <h2>Projects</h2>
