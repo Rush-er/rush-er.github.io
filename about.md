@@ -26,6 +26,7 @@ i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda 
 	<li>CCNA R&S: Scaling Networks</li>
 	<li>Cybersecurity Essentials</li>
 	<li>WatchGuard Network Security</li>
+	<li>WatchGuard Multi-Factor Authentication Essentials</li>
 	<li>Kaspersky Endpoint Security and Management</li>
 </ul>
 
