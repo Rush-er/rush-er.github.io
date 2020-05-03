@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>My name is Matis, i'm form Treviso-Italy.</p>
+<p>My name is Matis, i'm from Treviso-Italy.</p>
 <p>I love Android, Linux and Music.</p>
 <p>I'm also a referee you know the guy who gets shouted all the time 😆, 
 i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda Categoria</a> level.</p>
