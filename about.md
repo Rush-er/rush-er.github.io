@@ -32,7 +32,6 @@ i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda 
 
 &nbsp;
 &nbsp;
-
 ![](assets/images/cert.png)
 
 
