@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://rush-er.github.io
+url: https://rush-er.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
