@@ -1,6 +1,6 @@
 # main text of hom
 name: Matis Stocco
-bio: 🧢 Sysadmin & Referee ⚽
+bio: 🧢 System Engineer & Referee ⚽
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -51,12 +51,12 @@ github: rush-er
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: info@stoccomatis.com
+email: matis@stoccomatis.com
 
 authors:
     matis:
         name: Matis Stocco
-        bio: 🧢 Power User & Referee ⚽
+        bio: 🧢 System Engineer & Referee ⚽
         external-image: false
         picture: assets/images/profile.jpg
         
