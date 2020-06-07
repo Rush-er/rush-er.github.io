@@ -2,7 +2,7 @@
 
 *Curriculum vitae*         
 
-<img title="" src="C:\Users\Matis\Desktop\32925370.jpg" alt="            " width="216" data-align="left">
+<img title="" src="https://stoccomatis.com/assets/images/profile.jpg" alt="            " width="216" data-align="left">
 
 **Matis Stocco** nato il **03/09/97** a Castelfranco Veneto (TV)
 Residente in via Alberon19/F - **Castello di Godego** (TV) – 3103
