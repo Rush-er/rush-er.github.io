@@ -18,7 +18,8 @@ Residente in via Alberon19/F - **Castello di Godego** (TV) – 3103
   
   
   
-
+<br/><br/>
+<br/><br/>
 ### **Percorso scolastico**
 #
 Diploma conseguito presso **ITT Eugenio Barsanti** - specializzazione: **Informatica** e **Telecomunicazioni**
@@ -26,7 +27,8 @@ Diploma conseguito presso **ITT Eugenio Barsanti** - specializzazione: **Informa
 
 
 
-
+<br/><br/>
+<br/><br/>
 ### **Certificazioni**
 #
 *WatchGurad Gold*
