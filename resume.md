@@ -16,18 +16,12 @@ Residente in via Alberon19/F - **Castello di Godego** (TV) – 3103
 - Patente tipo B, automunito
   
   
-  
-  
-<br/><br/>
 <br/><br/>
 ### **Percorso scolastico**
 #
 Diploma conseguito presso **ITT Eugenio Barsanti** - specializzazione: **Informatica** e **Telecomunicazioni**
 
 
-
-
-<br/><br/>
 <br/><br/>
 ### **Certificazioni**
 #
@@ -46,9 +40,7 @@ Diploma conseguito presso **ITT Eugenio Barsanti** - specializzazione: **Informa
 - AiFOS: Attestato formazione specifica dei Lavoratori per il Rischio Basso
   
   
-
-
-
+<br/><br/>
 ### Prodotti conosciuti
 #
 - Watchguard: Firewall / Secure Wi-Fi / MFA
@@ -80,9 +72,7 @@ Diploma conseguito presso **ITT Eugenio Barsanti** - specializzazione: **Informa
 - QNAP
 
 
-
-
-
+<br/><br/>
 ### Hobbies
 #
 - Arbitro Calcio a 11
@@ -92,9 +82,7 @@ Diploma conseguito presso **ITT Eugenio Barsanti** - specializzazione: **Informa
 - Android Compiling & Modding
   
   
-
-
-
+<br/><br/>
 # Esperienze Lavorative
 
 #### 
