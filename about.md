@@ -17,7 +17,7 @@ i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda 
 	<li><a href="https://github.com/Rush-er/Viper4Linux-Configs">My presets for Viper4Linux</a></li>
 	<li><a href="https://github.com/Rush-er/themeInstaller">Script for Theme installation linux</a></li>
         <li><a href="https://github.com/Rush-er/local_manifests">Locale Manifest with device tree for Android rom building</a></li>
-        <li><a breve="https://github.com/Rush-er/buildROM">Automatically build Android rom and notify with Telegram bot</a></li>
+        <li><a href="https://github.com/Rush-er/buildROM">Automatically build Android rom and notify with Telegram bot</a></li>
         <li><a href="https://github.com/Rush-er/SiStall">Automatically install msi on Windows system</a></li>
 
 </ul>
