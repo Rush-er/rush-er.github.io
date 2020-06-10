@@ -4,14 +4,10 @@
 
 <img title="" src="https://stoccomatis.com/assets/images/profile.jpg" alt="            " width="216" data-align="left">
 
-**Matis Stocco** nato il **03/09/97** a Castelfranco Veneto (TV)
-Residente in via Alberon19/F - **Castello di Godego** (TV) – 3103
 
 - Email: info@stoccomatis.com
 
 - Sito Web: [stoccomatis.com](https://stoccomatis.com)
-
-- Tel.: 3922018073
 
 - Patente tipo B, automunito
   
