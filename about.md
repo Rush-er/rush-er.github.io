@@ -15,8 +15,8 @@ layout: page
 	<li><a href="https://github.com/Rush-er/PhotoS">Image editor for Windows</a></li>
 	<li><a href="https://github.com/Rush-er/Viper4Linux-Configs">My presets for Viper4Linux</a></li>
 	<li><a href="https://github.com/Rush-er/themeInstaller">Script for Theme installation linux</a></li>
-        <li><a href="https://github.com/Rush-er/local_manifests">Locale Manifest with device tree for Android rom building</a></li>
-        <li><a href="https://github.com/Rush-er/buildROM">Automatically build Android rom and notify with Telegram bot</a></li>
+        <li><a href="https://github.com/Rush-er/local_manifests">Local Manifest - Android rom building</a></li>
+        <li><a href="https://github.com/Rush-er/buildROM">Automatically build Android rom</a></li>
         <li><a href="https://github.com/Rush-er/SiStall">Automatically install msi on Windows system</a></li>
 
 </ul>
