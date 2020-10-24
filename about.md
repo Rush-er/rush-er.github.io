@@ -6,7 +6,7 @@ layout: page
 
 <p>My name is Matis, i'm from Treviso-Italy.</p>
 <p>I love Android, Linux and Music.</p>
-<p>I'm also a referee, i reached the <a href="https://en.wikipedia.org/wiki/Seconda_Categoria">Seconda Categoria</a> level.</p>
+<p>I'm also a referee, i reached the <a href="https://en.wikipedia.org/wiki/Prima_Categoria">Prima categoria</a> level.</p>
 
 
 <h2>Projects</h2>
