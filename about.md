@@ -27,7 +27,8 @@ layout: page
 	<li>CCNA R&S: Routing and Switching Essentials</li>
 	<li>CCNA R&S: Connecting Networks</li>
 	<li>CCNA R&S: Scaling Networks</li>
-	<li>Cybersecurity Essentials</li>
+	<li>Cisco BroadCloud Carrier/Reseller Master Admin - Professional</li>
+	<li>Cisco Cybersecurity Essentials</li>
 	<li>WatchGuard Network Security</li>
 	<li>WatchGuard Secure Wi-Fi Essentials</li>
 	<li>WatchGuard Multi-Factor Authentication Essentials</li>
