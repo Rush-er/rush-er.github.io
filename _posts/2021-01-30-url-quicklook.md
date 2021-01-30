@@ -1,7 +1,7 @@
 ---
 title: "Dive into the internet"
 layout: post
-date: 2021-01-29 20:00:00 +0100
+date: 2021-01-30 10:00:00 +0100
 image: /assets/images/social.png
 headerImage: false
 tag:
@@ -16,7 +16,7 @@ description: URL pishing/scamming
 So this week i thinked about the internet and i came up with an idea.
 
 Let's start with something basic and simple before digging furthermore; internet is a place where you can find a lot of thinkgs like my **Instagram profile** nickname _Wasteland_ :P
-[https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz](http://instagram.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz)
+[https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz](http://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz)
 
 
 ![](https://i.imgur.com/qWsbHBl.png)
