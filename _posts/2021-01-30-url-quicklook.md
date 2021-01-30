@@ -57,5 +57,5 @@ The domain name we used in the first example is divided like this
 Label 2 in our exemple is the subdomain pointing to **instagram.com**
 
 So after all this why my URL was bad ?
-It was bad because i used it to redirect whatever i liked, in that case to my website; i could redirect to a copycat page of Instagram login for the purpose of stealing your info or do whatever i wanted
+It was bad because i used it to redirect whatever i liked, in that case to my website; i could redirect to a copycat page of Instagram login for the purpose of stealing your info or do whatever i wanted.
 
