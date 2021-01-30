@@ -34,24 +34,28 @@ for a URL to works you need:
 3. Path to file
 
 After this we can proceed with an example.
+
 Base URL [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
 1. Protocol --> **https:**
 2. Domain --> **developer[]().mozilla.org**
 3. Path to file --> **/en-US/docs/Learn/Common_questions/What_is_a_URL**
 
-Now that you know the basics of URL we can take a look on my Instagram profile URL,
-this is the URL https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz, we can divide it like before:
+Now that you know the basics of URL we can take a look at my Instagram profile URL,
+this is the URL: [https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz](http://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz);
+we can divide it like before:
 
 1. Protocol --> **https:**
 2. Domain --> **wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec[]().xyz**
 3. Path to file --> Nothing !
 
-In this case i manipulate my URL domain to act like as a normal _Path to file_, the **instagram[]().com** domain it's just a wildcard to my real domain.
+In this case i manipulate my URL domain to act like as a normal _Path to file_, the **instagram[]().com** domain it's just a subdomain to my real domain.
 After this you may think how to find the real domain of the URL, it's really simple, just find the last --> . <-- of the URL, after that you always find a TLD like **.com**, **.it**, **.org**, etc…
 
 The domain name we used in the first example is divided like this
 ![](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name/structure.png)
 
+Label 2 in our exemple is the subdomain pointing to **instagram.com**
+
 So after all this why my URL was bad ?
-It was bad because i used it to redirect whatever i liked, in that case to my website; i could redirect to a copycat page of Instagram login for the purpose of stealing your info.
+It was bad because i used it to redirect whatever i liked, in that case to my website; i could redirect to a copycat page of Instagram login for the purpose of stealing your info or do whatever i wanted
 
