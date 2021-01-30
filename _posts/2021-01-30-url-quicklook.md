@@ -16,7 +16,7 @@ description: URL pishing/scamming
 So this week i thought about the internet and i came up with an idea.
 
 Let's start with something basic and simple before digging furthermore; internet is a place where you can find a lot of things like my **Instagram profile** nickname _Wasteland_ :P
-[https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz](instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz)
+[https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz](http://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz)
 
 
 ![](https://i.imgur.com/qWsbHBl.png)
