@@ -2,8 +2,8 @@
 title: "Dive into the internet"
 layout: post
 date: 2021-01-30 10:00:00 +0100
-image: /assets/images/social.png
-headerImage: false
+image: /assets/images/url.png
+headerImage: true
 tag:
 - url
 - internet
@@ -11,7 +11,7 @@ tag:
 star: true
 category: blog
 author: matis
-description: URL pishing/scamming
+description: URL understanding
 ---
 So this week i thought about the internet and i came up with an idea.
 
