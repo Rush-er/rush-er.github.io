@@ -27,7 +27,7 @@ Let's start with the real thing, if you clicked on my **Instagram profile** URL 
 ### URL meaning and schema
 URL stands for Uniform Resource Locator. A URL is nothing more than the address of a given unique resource on the Web.
 
-Now a days it's really easy to get fooled with URLS, this happens because people doesnt know how a URL works;
+Nowadays it's really easy to get fooled with URLS, this happens because people doesn't know how a URL works;
 for a URL to works you need:
 1. Protocol
 2. Domain
