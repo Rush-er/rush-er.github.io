@@ -32,6 +32,9 @@ layout: page
 	<li>WatchGuard Network Security</li>
 	<li>WatchGuard Secure Wi-Fi Essentials</li>
 	<li>WatchGuard Multi-Factor Authentication Essentials</li>
+	<li>3CX Basic Certification</li>
+	<li>3CX Intermediate Certification</li>
+	<li>3CX Advanced Certification</li>
 	<li>Kaspersky Endpoint Security and Management</li>
 </ul>
 
