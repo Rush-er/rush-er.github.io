@@ -7,7 +7,6 @@ layout: page
 <p>My name is Matis, i'm from Treviso-Italy.</p>
 <p>I love Android, Linux and Music.</p>
 
-
 <h2>Projects</h2>
 <ul>
 	<li><a href="https://github.com/Rush-er/SickAdsNew">Block ads/trackers/malwares</a></li>
