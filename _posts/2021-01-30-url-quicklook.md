@@ -19,7 +19,7 @@ Let's start with something basic and simple before digging furthermore; internet
 [https://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz](http://instagram.com.wasteland-user-link-url-ekcj1bx9defk3r17c73hske1like7rmnc31kcec.xyz)
 
 
-![](https://i.imgur.com/qWsbHBl.png)
+![](https://raw.githubusercontent.com/Rush-er/rush-er.github.io/master/assets/images/profileInsta.png)
 
 > My personal profile
 
@@ -52,7 +52,7 @@ In this case i manipulate my URL domain to act like as a normal _Path to file_, 
 After this you may think how to find the real domain of the URL, it's really simple, just find the last --> . <-- of the URL, after that you always find a TLD like **.com**, **.it**, **.org**, etc…
 
 The domain name we used in the first example is divided like this
-![](https://github.com/Rush-er/rush-er.github.io/blob/master/assets/images/structure.png)
+![](https://raw.githubusercontent.com/Rush-er/rush-er.github.io/master/assets/images/structure.png)
 
 Label 2 in our exemple is the subdomain pointing to **instagram.com**
 
