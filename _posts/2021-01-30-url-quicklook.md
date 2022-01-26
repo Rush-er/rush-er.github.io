@@ -52,7 +52,7 @@ In this case i manipulate my URL domain to act like as a normal _Path to file_, 
 After this you may think how to find the real domain of the URL, it's really simple, just find the last --> . <-- of the URL, after that you always find a TLD like **.com**, **.it**, **.org**, etc…
 
 The domain name we used in the first example is divided like this
-![](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name/structure.png)
+![](https://github.com/Rush-er/rush-er.github.io/blob/master/assets/images/structure.png)
 
 Label 2 in our exemple is the subdomain pointing to **instagram.com**
 
